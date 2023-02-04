@@ -65,11 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        title: 'Home',
         items: [
           // {
           //   type: 'doc',
@@ -83,7 +79,7 @@ const config = {
           {to: '/publications', label: 'Publications', position: 'right'},
           {to: '/cv', label: 'CV', position: 'right'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/vgandari',
             label: 'GitHub',
             position: 'right',
           },

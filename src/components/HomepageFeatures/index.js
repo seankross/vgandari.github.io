@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         I am an aerospace engineer with a background in multidisciplinary design optimization (MDO), control theory, robotics, and aircraft flight test.
-        My interests lie at the intersection of seemingly unrelated areas: programming language design, algorithm development (e.g. derivative computation, optimization algorithms), and applying MDO to spacecraft design problems.
+        My interests lie at the intersection of programming language design, algorithm development (e.g. derivative computation, optimization algorithms), and applying MDO to spacecraft design problems.
       </>
     ),
   },
